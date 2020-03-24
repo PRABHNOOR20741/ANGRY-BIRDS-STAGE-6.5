@@ -1,2 +1,2 @@
-# ANGRY-BIRDS-STAGE-6.5
-Today we learned about Arrays
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
